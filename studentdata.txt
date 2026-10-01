@@ -1,0 +1,4 @@
+Student name: Navyaa
+Register number: 125 
+Department: CSE
+Marks: 97
