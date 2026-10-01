@@ -1,0 +1,14 @@
+Student name: Navyaa
+Register number: 125 
+Department: CSE
+Marks: 97
+
+Student name: Loukyashree BG
+Register number: 123
+Department: CSE
+Marks: 95
+
+Student name: Siddushree DM
+Register number: 121
+Department: CSE
+Marks: 96
